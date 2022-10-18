@@ -1,4 +1,14 @@
-# Passport.js Example
+# Passport.js Example -- Cloned from Next.js for use in React project
+
+For use on the back end of JobTracker App for handling authentication. Example shows Log In / Sign Up / Log Out flow
+
+```
+yarn install
+yarn build
+yarn start
+```
+
+# Original Readme from Next (we don't need to use Vercel ;) ):
 
 This example show how to use [Passport.js](http://www.passportjs.org) with Next.js. The example features cookie based authentication with username and password.
 
